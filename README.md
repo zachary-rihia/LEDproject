@@ -8,7 +8,7 @@
 
 **This is my [Basic MVP](https://www.tinkercad.com/things/2SDPuDfpAgX-surprising-lappi-allis/editel?tenant=circuits) on tinkercad based on Manmohan's project**
 
-![image](https://user-images.githubusercontent.com/83677402/175019731-a28a3512-0cd8-42c7-bef1-6e80174b69a5.png)
+![image](https://user-images.githubusercontent.com/83677402/175019885-d347b13c-0fd8-4b8e-9d6e-2c32be4e986f.png)
 
 **Schematic View**
 
