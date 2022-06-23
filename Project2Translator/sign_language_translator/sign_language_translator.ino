@@ -54,20 +54,19 @@ void talk(String temp)
 // Hand sign outputs
 void sign() 
 {
-  if((angle1 <= 5) && (angle2 <= 5) && (angle4 <= 5) && (angle5 <= 5))
+  if((angle1 <= 16) && (angle2 <= 13) && (angle4 <= 14) && (angle5 <= 14))
   {
     talk("Fuck you");
   }
-  if((angle1 <= 5) && (angle3 <= 5) && (angle4 <= 5))
+  if((angle1 == 20) && (angle3 == 20) && (angle4 == 20))
   {
     talk("Animal");
   }
-  if((angle1 >= 11) && (angle1 <= 12) && (angle2 >= 8) && (angle2 <= 9)
-    && (angle3 >= 14) && (angle3 <= 15) && (angle4 >= 17) && (angle4 <= 18))
+  if((angle1 >= 17) && (angle1 <= 18) && (angle2 >= 14) && (angle2 <= 15))
   {
     talk("OK");
   }
-  if((angle2 <= 5) && (angle3 <= 5) && (angle4 <= 5) && (angle5 <= 5))
+  if((angle2 == 12) && (angle3 == 16) && (angle4 == 14) && (angle5 == 12))
   {
     talk("Good job");
   }
